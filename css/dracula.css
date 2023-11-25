@@ -1,0 +1,25 @@
+/* Dracula Theme */
+
+body, html {
+	background-color: #282a36;
+}
+
+.link {
+	color: #f8f8f2;
+}
+
+a {
+	color: #bd93f9;
+}
+
+.links {
+    color: #44475a;
+}
+
+a:hover {
+	color: #50fa7b;
+}
+
+.footer {
+    color: #f8f8f2;
+}
